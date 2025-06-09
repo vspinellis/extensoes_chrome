@@ -3,4 +3,7 @@
   <app appid="fcahfgdfdmihckkpjdbhijkamlghdfed">
     <updatecheck codebase="https://raw.githubusercontent.com/vspinellis/extensoes_chrome/main/sigs2.1.0.crx" version="2.1.0" />
   </app>
+  <app appid="fcahfgdfdmihckkpjdbhijkamlghdfed">
+    <updatecheck codebase="https://raw.githubusercontent.com/vspinellis/extensoes_chrome/main/sigs2.2.0.crx" version="2.2.0" />
+  </app>
 </gupdate>
